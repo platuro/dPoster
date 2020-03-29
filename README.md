@@ -1,2 +1,2 @@
 # dPublisher
-Post on STEEM-forked platforms
+Publish on STEEM-forked platforms
