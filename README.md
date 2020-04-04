@@ -1,2 +1,2 @@
 # dPublisher
-Publish on STEEM-forked platforms
+Editor for STEEM-based platforms
